@@ -1,6 +1,6 @@
 ## Nutty App
 
-### (under construction) ⚠️
+### ⚠️ (under construction)
 
 <br>
 Reporting Microservice. PDF Form editing app.
